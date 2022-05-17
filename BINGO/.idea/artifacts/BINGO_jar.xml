@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BINGO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BINGO_jar</output-path>
+    <root id="archive" name="BINGO.jar">
+      <element id="module-output" name="BINGO" />
+    </root>
+  </artifact>
+</component>
